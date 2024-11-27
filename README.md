@@ -3,7 +3,9 @@ Set numbers in AZERTY keyboard as the first row with karabiner
 
 1 -> 1 <br>
 1 + Shift -> &  
-...
+...  
+
+Config also resolve @# and <> keys issue
 
 ## Steps
 1) Download Karabiner -> Complex modifications -> Add your own rule

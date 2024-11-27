@@ -8,7 +8,7 @@ Set numbers in AZERTY keyboard as the first row with karabiner
 Config also resolve @# and <> keys issue
 
 ## Steps
-1) Download Karabiner -> Complex modifications -> Add your own rule
+1) Download [Karabiner]('https://karabiner-elements.pqrs.org/') -> Complex modifications -> Add your own rule
 2) Paste azerty-numbers-keymap.json
 3) Save
 

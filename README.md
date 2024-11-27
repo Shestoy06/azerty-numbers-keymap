@@ -5,7 +5,7 @@ Set numbers in AZERTY keyboard as the first row with karabiner
 1 + Shift -> &  
 ...  
 
-Config also resolve @# and <> keys issue
+SIDE EFFECT: for other keyboards with primary numbers row it will become second row, as config revert numbers and symbols rows
 
 ## Steps
 1) Download [Karabiner](https://karabiner-elements.pqrs.org/) -> Complex modifications -> Add your own rule

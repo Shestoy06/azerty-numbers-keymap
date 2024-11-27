@@ -2,7 +2,7 @@
 Set numbers in AZERTY keyboard as the first row with karabiner
 
 1 -> 1 <br>
-1 + Shift -> &
+1 + Shift -> &  
 ...
 
 ## Steps
